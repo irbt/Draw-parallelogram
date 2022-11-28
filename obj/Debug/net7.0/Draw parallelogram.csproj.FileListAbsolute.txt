@@ -1,0 +1,15 @@
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.csproj.AssemblyReference.cache
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.AssemblyInfoInputs.cache
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.AssemblyInfo.cs
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Draw parallelogram\bin\Debug\net7.0\Draw parallelogram.exe
+C:\Mon_Code\Draw parallelogram\bin\Debug\net7.0\Draw parallelogram.deps.json
+C:\Mon_Code\Draw parallelogram\bin\Debug\net7.0\Draw parallelogram.runtimeconfig.json
+C:\Mon_Code\Draw parallelogram\bin\Debug\net7.0\Draw parallelogram.dll
+C:\Mon_Code\Draw parallelogram\bin\Debug\net7.0\Draw parallelogram.pdb
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.dll
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\refint\Draw parallelogram.dll
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.pdb
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\Draw parallelogram.genruntimeconfig.cache
+C:\Mon_Code\Draw parallelogram\obj\Debug\net7.0\ref\Draw parallelogram.dll
